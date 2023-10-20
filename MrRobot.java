@@ -4,7 +4,7 @@ import java.util.Date;
 
 import java.text.SimpleDateFormat;
 
-public class mr_robot {
+public class MrRobot {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
